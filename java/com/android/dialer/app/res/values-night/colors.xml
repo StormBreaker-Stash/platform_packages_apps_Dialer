@@ -24,4 +24,7 @@
   <color name="blocked_number_block_color">#F44336</color>
 
   <color name="ic_launcher_background">@color/dialer_theme_color</color>
+  
+  <color name="nav_item">#80FFFFFF</color>
+  <color name="nav_item_selected">#FFFFFF</color>
 </resources>
