@@ -17,4 +17,6 @@
 <!-- The colors in this file aren't configured at the theme level. -->
 <resources>
   <color name="dialer_divider_line_color">#282828</color>
+  <!-- Settings -->
+  <color name="dialer_settings_theme_color_dark">#1C3AA9</color>
 </resources>
